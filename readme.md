@@ -1,6 +1,6 @@
 
 Author: Ayinde Oluseyi P
-Profession: Software Engineer
+
 
 
 BLOG RESFUL API USING LARAVEL FRAMEWORK
@@ -57,12 +57,12 @@ Post Examples
     
     Using Form-Date in Postman
 
-Key                         Value 
+Key 
 
-name                      your name
-email                     your email
-password                  your name
-password_confirmation      confirm password   (min 6 chars)
+name                     
+email                    
+password                  
+password_confirmation      
     
     </prev>
 
